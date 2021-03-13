@@ -39,6 +39,7 @@
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.pctBackground = new System.Windows.Forms.PictureBox();
+            this.pictureBox6 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.pctDoor)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pctKey)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
@@ -48,6 +49,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pctBackground)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
             this.SuspendLayout();
             // 
             // MainTimer
@@ -149,11 +151,22 @@
             this.pctBackground.TabIndex = 0;
             this.pctBackground.TabStop = false;
             // 
+            // pictureBox6
+            // 
+            this.pictureBox6.BackColor = System.Drawing.Color.Brown;
+            this.pictureBox6.Location = new System.Drawing.Point(66, 289);
+            this.pictureBox6.Name = "pictureBox6";
+            this.pictureBox6.Size = new System.Drawing.Size(68, 18);
+            this.pictureBox6.TabIndex = 9;
+            this.pictureBox6.TabStop = false;
+            this.pictureBox6.Tag = "platform";
+            // 
             // frmCyberDetective
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(584, 461);
+            this.Controls.Add(this.pictureBox6);
             this.Controls.Add(this.pctDoor);
             this.Controls.Add(this.pctKey);
             this.Controls.Add(this.pictureBox5);
@@ -177,6 +190,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pctBackground)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -193,6 +207,7 @@
         private System.Windows.Forms.PictureBox pctKey;
         private System.Windows.Forms.PictureBox pctDoor;
         private System.Windows.Forms.Timer MainTimer;
+        private System.Windows.Forms.PictureBox pictureBox6;
     }
 }
 
