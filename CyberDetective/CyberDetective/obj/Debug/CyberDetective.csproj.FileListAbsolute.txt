@@ -1,0 +1,20 @@
+C:\Users\hurta\Downloads\Universidad\Semestre 2\Lenguajes Visuales\CyberDetective\CyberDetective\CyberDetective\bin\Debug\CyberDetective.exe.config
+C:\Users\hurta\Downloads\Universidad\Semestre 2\Lenguajes Visuales\CyberDetective\CyberDetective\CyberDetective\bin\Debug\CyberDetective.exe
+C:\Users\hurta\Downloads\Universidad\Semestre 2\Lenguajes Visuales\CyberDetective\CyberDetective\CyberDetective\bin\Debug\CyberDetective.pdb
+C:\Users\hurta\Downloads\Universidad\Semestre 2\Lenguajes Visuales\CyberDetective\CyberDetective\CyberDetective\obj\Debug\CyberDetective.csprojAssemblyReference.cache
+C:\Users\hurta\Downloads\Universidad\Semestre 2\Lenguajes Visuales\CyberDetective\CyberDetective\CyberDetective\obj\Debug\CyberDetective.frmCyberDetective.resources
+C:\Users\hurta\Downloads\Universidad\Semestre 2\Lenguajes Visuales\CyberDetective\CyberDetective\CyberDetective\obj\Debug\CyberDetective.Properties.Resources.resources
+C:\Users\hurta\Downloads\Universidad\Semestre 2\Lenguajes Visuales\CyberDetective\CyberDetective\CyberDetective\obj\Debug\CyberDetective.csproj.GenerateResource.cache
+C:\Users\hurta\Downloads\Universidad\Semestre 2\Lenguajes Visuales\CyberDetective\CyberDetective\CyberDetective\obj\Debug\CyberDetective.csproj.CoreCompileInputs.cache
+C:\Users\hurta\Downloads\Universidad\Semestre 2\Lenguajes Visuales\CyberDetective\CyberDetective\CyberDetective\obj\Debug\CyberDetective.exe
+C:\Users\hurta\Downloads\Universidad\Semestre 2\Lenguajes Visuales\CyberDetective\CyberDetective\CyberDetective\obj\Debug\CyberDetective.pdb
+D:\LVAPV\CyberDetective\CyberDetective\CyberDetective\bin\Debug\CyberDetective.exe.config
+D:\LVAPV\CyberDetective\CyberDetective\CyberDetective\bin\Debug\CyberDetective.exe
+D:\LVAPV\CyberDetective\CyberDetective\CyberDetective\bin\Debug\CyberDetective.pdb
+D:\LVAPV\CyberDetective\CyberDetective\CyberDetective\obj\Debug\CyberDetective.csprojAssemblyReference.cache
+D:\LVAPV\CyberDetective\CyberDetective\CyberDetective\obj\Debug\CyberDetective.frmCyberDetective.resources
+D:\LVAPV\CyberDetective\CyberDetective\CyberDetective\obj\Debug\CyberDetective.Properties.Resources.resources
+D:\LVAPV\CyberDetective\CyberDetective\CyberDetective\obj\Debug\CyberDetective.csproj.GenerateResource.cache
+D:\LVAPV\CyberDetective\CyberDetective\CyberDetective\obj\Debug\CyberDetective.csproj.CoreCompileInputs.cache
+D:\LVAPV\CyberDetective\CyberDetective\CyberDetective\obj\Debug\CyberDetective.exe
+D:\LVAPV\CyberDetective\CyberDetective\CyberDetective\obj\Debug\CyberDetective.pdb
